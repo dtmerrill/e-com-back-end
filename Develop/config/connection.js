@@ -1,3 +1,5 @@
+// *** No updates needed
+
 require('dotenv').config();
 
 const Sequelize = require('sequelize');

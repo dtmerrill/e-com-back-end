@@ -1,3 +1,5 @@
+// *** DTM no updates needed
+
 const { Category } = require('../models');
 
 const categoryData = [

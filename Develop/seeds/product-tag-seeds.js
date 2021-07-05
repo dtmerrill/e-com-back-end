@@ -1,3 +1,5 @@
+// *** DTM no updates needed
+
 const { ProductTag } = require('../models');
 
 const productTagData = [

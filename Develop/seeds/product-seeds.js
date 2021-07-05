@@ -1,3 +1,5 @@
+// *** DTM no updates needed
+
 const { Product } = require('../models');
 
 const productData = [
